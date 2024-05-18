@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.Autoevaluation.82ee07a0-6475-4048-82d3-98adc89ea3cc</entry>
+      <entry>com.H5PAuthor.Autoevaluation.c0ee1eba-bb32-49d0-bde7-9be321cb9a59</entry>
     </identifier>
     <language>en</language>
     <contribute>
@@ -19,14 +19,14 @@ ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-05-18</dateTime>
-        <description language="en"><![CDATA[1716050529218]]></description>
+        <description language="en"><![CDATA[1716060514355]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.Autoevaluation.82ee07a0-6475-4048-82d3-98adc89ea3cc</entry>
+      <entry>com.H5PAuthor.Autoevaluation.c0ee1eba-bb32-49d0-bde7-9be321cb9a59</entry>
     </identifier>
     <title>
       <string language="en"><![CDATA[Auto-evaluation]]></string>
@@ -59,7 +59,7 @@ ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-05-18</dateTime>
-        <description language="en"><![CDATA[1716050529218]]></description>
+        <description language="en"><![CDATA[1716060514355]]></description>
       </date>
     </contribute>
     <contribute>
@@ -73,7 +73,7 @@ ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-05-18</dateTime>
-        <description language="en"><![CDATA[1716050529218]]></description>
+        <description language="en"><![CDATA[1716060514355]]></description>
       </date>
     </contribute>
     <contribute>
@@ -88,7 +88,7 @@ ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-05-18</dateTime>
-        <description language="en"><![CDATA[1716050529218]]></description>
+        <description language="en"><![CDATA[1716060514355]]></description>
       </date>
     </contribute>
     <contribute>
@@ -102,7 +102,7 @@ ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2024-05-18</dateTime>
-        <description language="en"><![CDATA[1716050529218]]></description>
+        <description language="en"><![CDATA[1716060514355]]></description>
       </date>
     </contribute>
   </lifeCycle>
