@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.Autoevaluation.cf805015-5450-4b32-b467-43b7cec3443c</entry>
+      <entry>com.H5PAuthor.Autoevaluation.4d105fe8-17f4-46c9-ae8a-a388fbd16bed</entry>
     </identifier>
     <language>en</language>
     <contribute>
@@ -26,7 +26,7 @@ END:VCARD  ]]></entity>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.Autoevaluation.cf805015-5450-4b32-b467-43b7cec3443c</entry>
+      <entry>com.H5PAuthor.Autoevaluation.4d105fe8-17f4-46c9-ae8a-a388fbd16bed</entry>
     </identifier>
     <title>
       <string language="en"><![CDATA[Auto-evaluation]]></string>
